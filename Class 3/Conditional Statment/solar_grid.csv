@@ -1,0 +1,101 @@
+LogID,PanelType,Hour,Voltage,Current_Amps,Weather,Expected_Output
+L0001,Panel_1,9,38.23,9.06,Sunny,355
+L0002,Panel_1,7,23.72,5.07,Partly Cloudy,265
+L0003,Panel_1,14,23.02,2.0,Cloudy,167
+L0004,Panel_1,6,32.31,7.6,Rainy,99
+L0005,Panel_3,6,31.92,7.92,Rainy,91
+L0006,Panel_4,8,21.33,3.06,Cloudy,181
+L0007,Panel_4,16,23.96,1.06,Sunny,357
+L0008,Panel_4,6,36.33,9.14,Cloudy,239
+L0009,Panel_10,6,33.67,1.33,Cloudy,177
+L0010,Panel_7,16,29.0,4.45,Sunny,399
+L0011,Panel_2,6,23.78,1.7,Cloudy,197
+L0012,Panel_2,9,25.68,9.28,Partly Cloudy,209
+L0013,Panel_7,9,22.41,0.63,Sunny,335
+L0014,Panel_10,16,22.94,2.36,Sunny,352
+L0015,Panel_10,7,20.59,2.17,Cloudy,153
+L0016,Panel_9,12,30.99,8.65,Sunny,368
+L0017,Panel_7,16,26.35,0.89,Partly Cloudy,201
+L0018,Panel_2,7,32.33,4.87,Rainy,56
+L0019,Panel_8,13,23.29,4.63,Partly Cloudy,241
+L0020,Panel_10,6,21.68,9.92,Cloudy,154
+L0021,Panel_6,18,22.31,4.08,Rainy,80
+L0022,Panel_1,17,28.35,6.36,Rainy,61
+L0023,Panel_2,7,36.13,4.11,Partly Cloudy,294
+L0024,Panel_9,15,26.77,3.58,Rainy,100
+L0025,Panel_2,8,27.29,1.16,Sunny,321
+L0026,Panel_2,17,39.14,3.92,Partly Cloudy,259
+L0027,Panel_8,18,39.59,1.51,Partly Cloudy,242
+L0028,Panel_10,9,23.25,4.95,Partly Cloudy,206
+L0029,Panel_6,8,24.33,2.45,Rainy,76
+L0030,Panel_5,16,24.06,8.13,Cloudy,192
+L0031,Panel_2,16,33.84,7.0,Cloudy,205
+L0032,Panel_5,17,34.88,5.26,Sunny,328
+L0033,Panel_3,12,28.35,7.48,Rainy,80
+L0034,Panel_6,8,21.59,8.39,Rainy,84
+L0035,Panel_2,9,38.75,8.4,Cloudy,153
+L0036,Panel_9,17,36.58,5.16,Rainy,100
+L0037,Panel_1,11,37.73,8.33,Rainy,89
+L0038,Panel_8,14,26.86,4.06,Rainy,79
+L0039,Panel_8,10,32.37,3.1,Sunny,307
+L0040,Panel_7,11,36.02,1.41,Partly Cloudy,213
+L0041,Panel_1,15,24.7,5.14,Cloudy,155
+L0042,Panel_1,13,33.02,7.42,Sunny,337
+L0043,Panel_7,12,39.42,4.14,Partly Cloudy,243
+L0044,Panel_9,7,26.98,4.14,Sunny,400
+L0045,Panel_8,18,25.6,7.49,Sunny,376
+L0046,Panel_8,12,38.84,2.39,Cloudy,197
+L0047,Panel_10,12,22.36,5.76,Partly Cloudy,253
+L0048,Panel_7,18,37.99,3.16,Rainy,62
+L0049,Panel_3,15,31.98,9.75,Partly Cloudy,218
+L0050,Panel_4,14,27.36,2.9,Sunny,362
+L0051,Panel_7,9,38.26,2.2,Partly Cloudy,299
+L0052,Panel_6,18,21.97,6.9,Partly Cloudy,284
+L0053,Panel_8,16,29.05,1.89,Cloudy,204
+L0054,Panel_7,9,28.49,1.55,Sunny,354
+L0055,Panel_4,12,39.07,9.13,Cloudy,152
+L0056,Panel_2,10,26.67,6.89,Cloudy,223
+L0057,Panel_2,10,38.23,4.95,Cloudy,236
+L0058,Panel_4,18,28.08,2.27,Rainy,61
+L0059,Panel_9,7,32.64,5.62,Cloudy,196
+L0060,Panel_2,10,23.64,5.54,Partly Cloudy,252
+L0061,Panel_6,9,25.09,0.65,Cloudy,225
+L0062,Panel_8,18,24.21,7.21,Sunny,383
+L0063,Panel_5,13,24.58,0.66,Sunny,365
+L0064,Panel_7,16,33.29,4.43,Cloudy,211
+L0065,Panel_8,16,30.09,9.92,Partly Cloudy,278
+L0066,Panel_9,14,27.86,4.61,Rainy,55
+L0067,Panel_9,15,24.81,0.75,Sunny,380
+L0068,Panel_9,15,31.89,6.11,Sunny,343
+L0069,Panel_10,16,36.36,0.69,Sunny,391
+L0070,Panel_5,9,38.25,0.79,Cloudy,208
+L0071,Panel_10,6,33.74,6.06,Partly Cloudy,203
+L0072,Panel_8,18,21.32,5.93,Partly Cloudy,280
+L0073,Panel_6,7,20.2,7.81,Cloudy,177
+L0074,Panel_6,6,35.49,2.45,Partly Cloudy,285
+L0075,Panel_7,12,24.37,3.66,Cloudy,237
+L0076,Panel_2,6,35.8,8.54,Partly Cloudy,249
+L0077,Panel_1,12,31.38,9.71,Partly Cloudy,200
+L0078,Panel_4,6,24.05,4.19,Cloudy,245
+L0079,Panel_8,18,23.4,4.4,Partly Cloudy,259
+L0080,Panel_3,13,23.86,7.94,Partly Cloudy,264
+L0081,Panel_1,11,29.22,4.8,Cloudy,219
+L0082,Panel_6,7,39.0,3.77,Cloudy,155
+L0083,Panel_1,14,39.07,9.27,Rainy,69
+L0084,Panel_3,12,26.25,4.76,Rainy,78
+L0085,Panel_2,17,37.43,1.83,Rainy,95
+L0086,Panel_4,18,35.04,1.42,Rainy,90
+L0087,Panel_9,7,22.65,4.92,Sunny,329
+L0088,Panel_1,14,22.34,0.9,Cloudy,199
+L0089,Panel_10,6,26.13,5.67,Rainy,81
+L0090,Panel_9,18,27.98,7.32,Rainy,64
+L0091,Panel_10,9,39.27,9.31,Partly Cloudy,266
+L0092,Panel_3,12,27.57,4.05,Sunny,388
+L0093,Panel_6,10,33.1,5.98,Cloudy,228
+L0094,Panel_6,15,34.5,7.07,Cloudy,203
+L0095,Panel_6,10,29.66,6.77,Sunny,398
+L0096,Panel_10,14,25.55,1.14,Rainy,65
+L0097,Panel_10,16,38.72,6.95,Partly Cloudy,264
+L0098,Panel_5,12,30.69,1.22,Rainy,85
+L0099,Panel_2,7,22.49,3.72,Rainy,68
+L0100,Panel_6,11,32.81,8.84,Sunny,318

@@ -1,0 +1,81 @@
+TransactionID,Product,Quantity,UnitPrice,Status,CustomerRegion
+T0001,Charger,3,1083.45,Completed,West
+T0002,Charger,2,992.66,Cancelled,North
+T0003,Webcam,3,1144.62,Pending,South
+T0004,Mouse,8,43.76,Pending,International
+T0005,Mouse,2,660.89,Pending,South
+T0006,Mouse,8,242.69,Completed,South
+T0007,Keyboard,3,507.11,Cancelled,International
+T0008,Charger,9,91.60,Completed,North
+T0009,Monitor,8,236.28,Completed,South
+T0010,Laptop,2,304.67,Pending,International
+T0011,Monitor,7,149.32,Cancelled,East
+T0012,Charger,3,603.68,Refunded,South
+T0013,Webcam,3,34.13,Pending,North
+T0014,USB Drive,10,1159.06,Refunded,International
+T0015,Webcam,6,518.01,Pending,South
+T0016,Charger,1,977.90,Cancelled,International
+T0017,USB Drive,2,310.63,Refunded,South
+T0018,Keyboard,10,890.00,Cancelled,West
+T0019,USB Drive,7,378.47,Refunded,International
+T0020,Monitor,4,72.23,Refunded,North
+T0021,USB Drive,8,1051.40,Refunded,East
+T0022,Mouse,7,48.86,Refunded,International
+T0023,Laptop,2,1034.01,Completed,East
+T0024,Mouse,3,567.74,Refunded,North
+T0025,Headphones,8,733.30,Completed,North
+T0026,Charger,4,531.77,Completed,International
+T0027,Monitor,2,217.44,Pending,East
+T0028,Monitor,5,269.73,Completed,West
+T0029,Headphones,4,492.90,Cancelled,South
+T0030,Monitor,2,483.63,Pending,East
+T0031,Mouse,4,1121.72,Pending,International
+T0032,Webcam,1,436.30,Pending,North
+T0033,Headphones,2,310.68,Refunded,South
+T0034,Webcam,8,743.95,Completed,North
+T0035,Monitor,5,194.23,Pending,International
+T0036,Charger,5,951.85,Completed,South
+T0037,Keyboard,6,764.22,Pending,International
+T0038,Laptop,7,299.36,Completed,West
+T0039,Charger,7,812.55,Pending,West
+T0040,Headphones,7,556.12,Completed,International
+T0041,USB Drive,6,167.14,Refunded,South
+T0042,Headphones,5,797.51,Cancelled,West
+T0043,Charger,8,308.95,Pending,North
+T0044,Keyboard,1,1125.72,Cancelled,East
+T0045,Headphones,8,374.81,Completed,South
+T0046,Monitor,8,1187.34,Cancelled,North
+T0047,Webcam,6,957.34,Completed,South
+T0048,USB Drive,5,777.31,Pending,North
+T0049,Webcam,9,475.48,Completed,East
+T0050,Laptop,7,234.26,Refunded,West
+T0051,Headphones,1,624.90,Pending,West
+T0052,Keyboard,10,20.02,Pending,East
+T0053,Headphones,9,126.60,Completed,North
+T0054,Charger,5,204.89,Completed,North
+T0055,Monitor,7,111.95,Refunded,South
+T0056,Charger,4,632.91,Refunded,North
+T0057,Keyboard,9,213.27,Completed,West
+T0058,Monitor,7,661.91,Completed,North
+T0059,USB Drive,3,658.68,Pending,South
+T0060,Headphones,6,39.84,Pending,North
+T0061,Laptop,7,1058.01,Completed,South
+T0062,Mouse,3,1191.01,Cancelled,West
+T0063,Webcam,3,334.38,Cancelled,North
+T0064,Charger,8,782.73,Pending,West
+T0065,Charger,7,583.97,Completed,International
+T0066,Monitor,2,558.83,Refunded,International
+T0067,Keyboard,1,197.41,Completed,International
+T0068,Laptop,4,825.53,Refunded,North
+T0069,Monitor,1,645.96,Cancelled,West
+T0070,Monitor,6,540.34,Pending,North
+T0071,Webcam,7,109.69,Pending,South
+T0072,Mouse,5,266.71,Cancelled,International
+T0073,Webcam,9,494.13,Refunded,East
+T0074,Keyboard,3,112.18,Refunded,West
+T0075,Headphones,6,1062.73,Completed,West
+T0076,Monitor,3,967.58,Completed,International
+T0077,Charger,6,23.11,Completed,East
+T0078,Headphones,7,1198.80,Cancelled,West
+T0079,Monitor,2,827.46,Completed,South
+T0080,Webcam,8,15.46,Pending,East
